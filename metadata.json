@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Event & Resource Booking Portal",
+  "description": "Comprehensive role-based portal for students, faculty, and administrators to discover events, book campus halls and equipment, manage conflict-free schedules, and track real-time notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
